@@ -1,6 +1,6 @@
 ## Create contract using JSON file
 
-```json
+```javascript
 var contractAddress = "0xc727b9e7b84dd34ca55f7c303df76d5f589cf2bf";
 var fs = require("fs");
 var jsonFile = "[[PATH TO JSON FILE]]";
